@@ -13,11 +13,13 @@ Ambitious person , intersted to be a full stack developper
 
 ## 🛠 Skills
     - HTML, CSS (Bootstrap-Argon CSS)
-    - JavaScript 
-    - { MongoDB , Express ,  React Js , NodeJs  } 
+    - (Bootstrap-Argon CSS , Tailwind CSS)
+    - JavaScript , TypeScript
+    - { MongoDB , PostgreSQL , Mysql , Express ,  React Js , Nexte Js , NodeJs  } 
     - Adobe xd 
     - Adobe Illustrator 
     - Figma
+    - Canva
 #
 
 ###  FORMATEUR AT GOMYCODE / CASABLANCA
