@@ -20,4 +20,4 @@ Ambitious person , intersted to be a full stack developper
     - Figma
 #
 
-###  STUDENT AT YOUCODE / youssoufia
+###  FORMATEUR AT GOMYCODE / CASABLANCA
